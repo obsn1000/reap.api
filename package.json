@@ -1,0 +1,12 @@
+{
+  "name": "reap.api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/kban/create-kban.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}

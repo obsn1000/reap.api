@@ -1,0 +1,1 @@
+// Placeholder for API index route
